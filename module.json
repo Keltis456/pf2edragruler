@@ -4,8 +4,7 @@
   "description": "Integration of Drag Ruler module (https://github.com/manuelVo/foundryvtt-drag-ruler) for Pathfinder 2e.",
   "compatibility": {
     "minimum": "11",
-    "verified": "11.315",
-    "maximum": "11"
+    "verified": "11.315"
   },
   "authors": [
     {
